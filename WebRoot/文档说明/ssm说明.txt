@@ -1,12 +1,12 @@
-ÏîÄ¿ÔËĞĞ×´Ì¬£º¿ÉÔËĞĞ
-µØÖ·
+é¡¹ç›®è¿è¡ŒçŠ¶æ€ï¼šå¯è¿è¡Œ
+åœ°å€
 http://localhost:8080/ssm/
-Êı¾İ¿â 
-mysql Ä¬ÈÏ¶Ë¿ÚºÅ£º3306
+æ•°æ®åº“ 
+mysql é»˜è®¤ç«¯å£å·ï¼š3306
 jdbc_url=jdbc:mysql://localhost:3306/db_system?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
 root/mysql0010
 db_system
-±í
+è¡¨
 sys_user
 	uuid			varchar	50 key
 	login_name		varchar	50
@@ -15,9 +15,9 @@ sys_user
 	status			int		1
 	add_time		varchar	50
 	remark			varchar	50
-±íÊı¾İ
+è¡¨æ•°æ®
 uuid login_name login_password nick_name status add_time remark
-±àºÅ	   ÓÃ»§Ãû		 ÃÜÂë	     êÇ³Æ	        ×´Ì¬		   ±¸×¢	Ìí¼ÓÊ±¼ä	   ²Ù×÷
+ç¼–å·	   ç”¨æˆ·å		 å¯†ç 	     æ˜µç§°	        çŠ¶æ€		   å¤‡æ³¨	æ·»åŠ æ—¶é—´	   æ“ä½œ
 e0b3966b2fd844ed9c41082c8cb10e57 111 111 111 0 2017-09-30 15:30:03 111
 
-×¢£ºĞŞ¸Äºó±àÒëÔËĞĞÇ°ÒªÇå¿Õ±àÒë¼ÇÂ¼
+æ³¨ï¼šä¿®æ”¹åç¼–è¯‘è¿è¡Œå‰è¦æ¸…ç©ºç¼–è¯‘è®°å½•

@@ -19,6 +19,7 @@
 </head>
 
 <body>
+	欢迎！
 	<a href="add.jsp">新增用户</a>
 	<a href="getAll.do">查看全部用户</a>
 </body>
